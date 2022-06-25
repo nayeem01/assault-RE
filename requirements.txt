@@ -1,0 +1,5 @@
+tensorflow
+gym 
+keras-rl2
+numpy
+'gym[all]'
